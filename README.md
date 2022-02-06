@@ -1,2 +1,2 @@
 # Lenovo-IdeaPad-100-15IBD-EFI
- OC 0.7.0
+ This repo will upgraded after <strong>WWDC</strong>
